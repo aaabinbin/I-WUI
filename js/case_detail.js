@@ -1,0 +1,9 @@
+$(function(){
+	$("#logoimg")
+	.mouseover(function(){
+		$("#logoimg").attr("src","../img/nav_logo.png");
+	})
+	.mouseout(function(){
+		$("#logoimg").attr("src","../img/nav_logo_black.png");
+	})
+})

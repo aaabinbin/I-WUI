@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body { background-color: #ffffff; font-family: "微软雅黑"; width: 100%; text-align: center; overflow-x: hidden; color: #2e2e2e;}
+#top_nav { width: 100%; text-align: center;}
+	#top_nav_mid { width: 1000px; height: 90px; text-align:left;}
+		#top_nav_img { width: 101px; height: 90px; }
+		#top_nav_main { 
+			width: 757px; 
+			height: 17px; 
+			float: left;
+			margin-top: 36px;
+			margin-left: 140px;
+		}
+			#top_nav_main div, #top_nav_main img { float: left;}
+			#top_nav_main div { text-align: center; width: 150px; height: 17px;}
+			#top_nav_main div a { line-height: 17px;}
+			#top_nav_main div a:hover { color: #0ba507;}
+			#top_nav_main div img { margin-left: 64px;}
+
+#banner { width: 100%; height: 537px; background-image: url(../img/banner_1bg.png);}	
+	#bannerpic { width: 1000px; }
+	.setbottom { width: 1000px; }
+	#banner_nav { height: 90px;}		
+		#banner_nav div { width: 200px; height: 90px;}
+#main { width: 1000px; height: 100%;}
+	#aim { height: 181px; font-size: 28px;}
+		#aim .size { padding-top: 38px;}
+		#aim p { line-height: 50px;}
+	#service { height: 327px;}
+		.service_pic { height: 327px; width: 250px; float: left;}
+	.blank1 { height: 60px;}
+	#newest { height: 880px; }
+		#newest .title { height: 86px; text-align: left; font-size: 28px; line-height: 86px;}
+		#newpic { height: 694px; text-align: left;}
+			.newpic2 { margin-left: 20px;}
+			.newpic3 { margin-left: 20px; margin-top: 20px;}
+			.newpic4 { margin-top: 20px;}
+			.newpic5 { margin-left: 20px; margin-top: 20px;}
+	.blank2 { height: 80px;}
+				 

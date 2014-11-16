@@ -1,0 +1,18 @@
+#main { width: 1000px; height: auto;}
+	.blank1 { height: 25px;}
+	#easy_reminder { height: 1636px; }
+		.easy_l { width: 635px; height:164px; text-align: left;}
+			.easy_l .title { font-size: 30px; color: #4e4e4e; margin-top: 34px;}
+			.easy_l .text { font-size: 14px; margin-top: 12px;}
+		#visitweb { width: 123px; height: 38px; background-color: #3fc13c; color: white; float: left; line-height: 38px; 
+					margin-top: 83px; margin-left: 240px;}
+		.firpic { width: 1000px; height: 340px; margin-top: 25px; background-color: #4b4b4b;}
+		.text_2 { height: 103px; font-size: 14px; text-align: left;}
+			.text_2 p { margin-top: 30px; line-height: 25px;}
+		.thipic { margin-top: 32px;}
+	#relevant { height: 339px; width: 1000px;}
+		#relevant .title { height: 99px; text-align: left; line-height: 99px; font-size: 28px;}
+		#relevant .img { height: 160px;}
+			#relevant .img img { width: 320px; height: 160px;}
+			#relevant .img .pic2, #relevant .img .pic3 { margin-left: 20px;}
+.fontgreen a{ color: #0ba507;}
