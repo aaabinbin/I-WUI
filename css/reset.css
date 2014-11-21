@@ -15,9 +15,9 @@ a,a:link,a:visited { text-decoration: none;  color: #2e2e2e;}
 .white { background-color: #ffffff;}
 .grayline { height: 1px; background-color: #e6e6e6; width: 1000px;}
 
-body { background-color: #ffffff; font-family: "微软雅黑"; width: 100%; text-align: center; overflow-x: hidden; color: #2e2e2e;}
+body { background-color: #ffffff; font-family: "微软雅黑"; width: auto; text-align: center; color: #2e2e2e; min-width: 1024px;}
 /*****************顶部的导航栏********************/
-#top_nav { width: 100%; text-align: center;}
+#top_nav { width: auto; text-align: center;}
 	#top_nav_mid { width: 1000px; height: 90px; text-align:left;}
 		#top_nav_img { width: 101px; height: 90px; }
 		#top_nav_main { 

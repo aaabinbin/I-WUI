@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-body { background-color: #ffffff; font-family: "微软雅黑"; width: 100%; text-align: center; overflow-x: hidden; color: #2e2e2e;}
+body { background-color: #ffffff; font-family: "微软雅黑"; width: 100%; text-align: center; color: #2e2e2e;}
 #top_nav { width: 100%; text-align: center;}
 	#top_nav_mid { width: 1000px; height: 90px; text-align:left;}
 		#top_nav_img { width: 101px; height: 90px; }
